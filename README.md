@@ -59,7 +59,3 @@ python number_game.py
   - If your guess is **too high or too low**, you are **prompted to try again** *(remaining attempts are displayed)*.  
 - The game **ends when you guess the number or exhaust your attempts**.  
 
-You enter a guess, and the game responds:
-If your guess is correct, you see a congratulatory message 🎉.
-If your guess is too high or too low, you are prompted to try again (remaining attempts are displayed).
-The game ends when you guess the number or exhaust your attempts.
